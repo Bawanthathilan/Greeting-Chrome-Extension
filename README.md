@@ -22,5 +22,7 @@ We’re going to keep things simple, so in this tutorial, we’ll just be using 
 For this tutorial, we’re going to create a simple dashboard that greets the user by name. Let’s call our extension Simple Greeting Dashboard.
 
 To get started, you’ll want to create three files: index.html, main.css, and main.js. Put these in their own folder. Next, fill the HTML file with basic HTML document setup, and connect it to the CSS and JS files:
-
+'''
 <!-- =================================Simple Greeting Dashboard================================= //--><!DOCTYPE html><html><head>  <meta charset="utf-8" />  <title>Simple Greeting Dashboard</title>  <link rel="stylesheet" type="text/css" media="screen" href="main.css" /></head><body>   <!-- My code will go here -->   <script src="main.js"></script></body></html>
+
+'''
